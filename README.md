@@ -5,8 +5,8 @@ I am a final-year computer science student at Saint Louis University University,
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Figuring out my next project!
+- Looking for 🎓 post-grad opportunities in software development!
+- Learning Golang! 
 
 Check out my [coding portfolio!](zahmed.dev)
 
