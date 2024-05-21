@@ -8,7 +8,7 @@ I am a final-year computer science student at Saint Louis University University,
 - Looking for 🎓 post-grad opportunities in software development!
 - Learning Golang! 
 
-Check out my [coding portfolio!](zahmed.dev)
+Check out my [coding portfolio!](zoahmed.com)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/zohaibaahmed)
