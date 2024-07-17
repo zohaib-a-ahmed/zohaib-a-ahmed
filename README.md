@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋 I'm Zohaib Ahmed</h1>
 
 # 💫 About Me:
-I am a final-year computer science student at Saint Louis University University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a graduate computer science student at the University of Texas at Austin, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
-- Looking for 🎓 post-grad opportunities in software development!
-- Learning Golang! 
+- Looking for internship/full-time opportunities in software development!
+- Speedrunning [Andrew Ng's Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_machine-learning-introduction_stanford_FTCOF_specializations_country-US-country-CA&campaignid=685340575&adgroupid=46849728719&device=c&keyword=andrew%20ng%20machine%20learning&matchtype=b&network=g&devicemodel=&adposition=&creativeid=606098666387&hide_mobile_promo&gad_source=1&gclid=CjwKCAjwtNi0BhA1EiwAWZaANK7tRiv-7YptvxH1SPUFfchv2WvRplf58MfKEwAEg-qbj6tiWKgtCxoCdB4QAvD_BwE)
 
-Check out my [coding portfolio!](https://zoahmed.com)
+Check out my [coding portfolio!](https://zahmed.dev)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/zohaibaahmed)
